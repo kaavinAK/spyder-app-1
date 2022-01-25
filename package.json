@@ -17,7 +17,7 @@
     "moment": "^2.29.1",
     "native-base": "^3.3.2",
     "react": "17.0.2",
-    "react-native": "0.62.0",
+    "react-native": "0.67.0",
     "react-native-alarm-notification": "^1.8.0",
     "react-native-gesture-handler": "^2.2.0",
     "react-native-paper": "^4.11.2",
